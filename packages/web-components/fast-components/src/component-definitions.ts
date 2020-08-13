@@ -3,6 +3,8 @@ export * from "./accordion/fast-accordion.definition";
 export * from "./anchor/fast-anchor.definition";
 export * from "./badge/fast-badge.definition";
 export * from "./button/fast-button.definition";
+export * from "./breadcrumb/fast-breadcrumb.definition";
+export * from "./breadcrumb-item/fast-breadcrumb-item.definition";
 export * from "./card/fast-card.definition";
 export * from "./checkbox/fast-checkbox.definition";
 export * from "./design-system-provider/fast-design-system-provider.definition";
